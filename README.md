@@ -12,3 +12,4 @@ Transferred 6144 files of 1MB each in 147.2998549938202 seconds.
 Cleaning up...
 Transfer rate:  41.71083535864828 MB per second
 ```
+I designed this to test variable speed in microSD and SSD and HDD in Raspberry Pi for checking small file transfers (usually slower) and large file transfers (usually faster) both.
