@@ -13,3 +13,18 @@ Cleaning up...
 Transfer rate:  41.71083535864828 MB per second
 ```
 I designed this to test variable speed in microSD and SSD and HDD in Raspberry Pi and WSL for checking small file transfers (usually slower) and large file transfers (usually faster) both.
+
+## Installation and Usage
+ 1. Git Clone This Repo
+ 2. And Run
+```sh
+python src/main.py
+
+```
+or
+```sh
+python3 src/main.py
+
+```
+This will provide you the I/O results. Greater is good, even if less don't be disappointed this is a very high resource utilization test. 
+
